@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="PromptLedger: Give your prompts a history.">
+<defs><radialGradient id="glow"><stop stop-color="#67d9ee" stop-opacity=".12"/><stop offset="1" stop-color="#67d9ee" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="638" height="298" rx="16" fill="#10151c" stroke="#2c3541"/>
+<ellipse cx="505" cy="106" rx="152" ry="131" fill="url(#glow)"/>
+<path d="M28 1h110" stroke="#67d9ee" stroke-width="3"/>
+<g fill="none" stroke="#67d9ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"><path d="M438 52v113M438 70h35m-35 40h35m-35 40h35"/><circle cx="438" cy="70" r="5"/><circle cx="438" cy="110" r="5"/><circle cx="438" cy="150" r="5"/><rect x="475" y="54" width="104" height="32" rx="7"/><rect x="475" y="94" width="85" height="32" rx="7"/><rect x="475" y="134" width="104" height="32" rx="7"/><path d="M488 70h56m-56 40h38m-38 40h63"/></g>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<text x="30" y="45" fill="#67d9ee" font-size="13" letter-spacing="1.5">AI TOOLING / LOCAL-FIRST</text>
+<text x="30" y="114" fill="#f3f6fa" font-size="38" font-weight="700">PromptLedger</text>
+<text x="30" y="197" fill="#edf1f6" font-size="23" font-weight="600">Give your prompts a history.</text>
+<text x="30" y="232" fill="#9caaba" font-size="19">Version, compare, and trace every change.</text>
+<text x="30" y="276" fill="#67d9ee" font-size="12" letter-spacing="2">EXPLORE PROJECT ↗</text>
+<text x="606" y="276" text-anchor="end" fill="#708091" font-size="13">02 / EM</text>
+</g></svg>

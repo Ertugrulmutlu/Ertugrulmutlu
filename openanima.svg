@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="OpenAnima: A creative layer for your desktop.">
+<defs><radialGradient id="glow"><stop stop-color="#f5b544" stop-opacity=".12"/><stop offset="1" stop-color="#f5b544" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="638" height="298" rx="16" fill="#10151c" stroke="#2c3541"/>
+<ellipse cx="505" cy="106" rx="152" ry="131" fill="url(#glow)"/>
+<path d="M28 1h110" stroke="#f5b544" stroke-width="3"/>
+<g fill="none" stroke="#f5b544" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"><rect x="405" y="42" width="164" height="110" rx="10"/><path d="M405 65h164M422 54h3m9 0h3m9 0h3M438 152v15h98v-15"/><rect x="451" y="83" width="96" height="67" rx="9"/><path d="m477 110 9-10 10 10-10 10zM514 99v24m-12-12h24"/></g>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<text x="30" y="45" fill="#f5b544" font-size="13" letter-spacing="1.5">DESKTOP / OPEN SOURCE</text>
+<text x="30" y="114" fill="#f3f6fa" font-size="38" font-weight="700">OpenAnima</text>
+<text x="30" y="197" fill="#edf1f6" font-size="23" font-weight="600">A creative layer for your desktop.</text>
+<text x="30" y="232" fill="#9caaba" font-size="19">Local-first visual companions on Windows.</text>
+<text x="30" y="276" fill="#f5b544" font-size="12" letter-spacing="2">EXPLORE PROJECT ↗</text>
+<text x="606" y="276" text-anchor="end" fill="#708091" font-size="13">01 / EM</text>
+</g></svg>

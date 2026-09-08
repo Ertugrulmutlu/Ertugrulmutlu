@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Beyond the model: Human-in-the-Loop → Agent-in-the-Loop">
+<defs><radialGradient id="glow"><stop stop-color="#b9c5d8" stop-opacity=".12"/><stop offset="1" stop-color="#b9c5d8" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="638" height="298" rx="16" fill="#10151c" stroke="#2c3541"/>
+<ellipse cx="505" cy="106" rx="152" ry="131" fill="url(#glow)"/>
+<path d="M28 1h110" stroke="#b9c5d8" stroke-width="3"/>
+<g fill="none" stroke="#b9c5d8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"><circle cx="499" cy="107" r="50"/><path d="m486 83 34 24-34 24zM420 89q15-55 78-53m78 90q-14 55-77 52m-3-149 7 8-9 7m12 125-9 8 10 8"/></g>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<text x="30" y="45" fill="#b9c5d8" font-size="13" letter-spacing="1.5">TALK / DATATALKS.CLUB</text>
+<text x="30" y="114" fill="#f3f6fa" font-size="33" font-weight="700">Beyond the model</text>
+<text x="30" y="197" fill="#edf1f6" font-size="23" font-weight="600">Human-in-the-Loop → Agent-in-the-Loop</text>
+<text x="30" y="232" fill="#9caaba" font-size="19">Feedback, evaluation, and human judgment.</text>
+<text x="30" y="276" fill="#b9c5d8" font-size="12" letter-spacing="2">WATCH THE TALK ↗</text>
+<text x="606" y="276" text-anchor="end" fill="#708091" font-size="13">06 / EM</text>
+</g></svg>
