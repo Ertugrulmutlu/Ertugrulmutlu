@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://ertugrulmutlu.github.io">
-  <img src="./assets/hero.png" width="100%" alt="Ertugrul Mutlu — AI systems beyond the demo. Local-first AI, computer vision, and edge ML." />
+  <img src="hero.png" width="100%" alt="Ertugrul Mutlu — AI systems beyond the demo. Local-first AI, computer vision, and edge ML." />
 </a>
 
 <br><br>
@@ -12,15 +12,15 @@
 I turn research ideas into **local-first tools**, **desktop products**, and **edge ML systems**.
 
 <p>
-  <a href="https://ertugrulmutlu.github.io"><img src="./assets/badge-portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ertugrul-mutlu/"><img src="./assets/badge-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://dev.to/ertugrulmutlu"><img src="./assets/badge-build_logs.svg" alt="Writing and build logs" /></a>
-  <a href="https://www.youtube.com/watch?v=HwCR59VuYn4"><img src="./assets/badge-watch_my_talk.svg" alt="Watch my DataTalks.Club talk" /></a>
+  <a href="https://ertugrulmutlu.github.io"><img src="/badge-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ertugrul-mutlu/"><img src="badge-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://dev.to/ertugrulmutlu"><img src="badge-build_logs.svg" alt="Writing and build logs" /></a>
+  <a href="https://www.youtube.com/watch?v=HwCR59VuYn4"><img src="/badge-watch_my_talk.svg" alt="Watch my DataTalks.Club talk" /></a>
 </p>
 
 [Projects](#-selected-work) · [Toolkit](#-my-toolkit) · [Writing](#-ideas-in-public)
 
-<img src="./assets/signal.svg" width="100%" alt="" />
+<img src="signal.svg" width="100%" alt="" />
 
 ### A demo working once is not the same thing as a reliable system.
 
@@ -38,7 +38,7 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/OpenAnima"><img src="./assets/openanima.svg" width="100%" alt="OpenAnima — An open-source, local-first Windows desktop overlay engine." /></a>
+<a href="https://github.com/Ertugrulmutlu/OpenAnima"><img src="openanima.svg" width="100%" alt="OpenAnima — An open-source, local-first Windows desktop overlay engine." /></a>
 <p align="center">
 <a href="https://github.com/Ertugrulmutlu/OpenAnima">Code</a> ·
 <a href="https://ertugrulmutlu.github.io/OpenAnima/">Website</a> ·
@@ -46,7 +46,7 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/promptledger"><img src="./assets/promptledger.svg" width="100%" alt="PromptLedger — Local-first prompt version control with history, labels, diffs, and metadata." /></a>
+<a href="https://github.com/Ertugrulmutlu/promptledger"><img src="promptledger.svg" width="100%" alt="PromptLedger — Local-first prompt version control with history, labels, diffs, and metadata." /></a>
 <p align="center">
 <a href="https://github.com/Ertugrulmutlu/promptledger">Code</a> ·
 <a href="https://pypi.org/project/promptledger/">PyPI</a> ·
@@ -56,14 +56,14 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/DataLens"><img src="./assets/datalens.svg" width="100%" alt="DataLens — A read-only image dataset checker for corrupted files, duplicates, and label issues." /></a>
+<a href="https://github.com/Ertugrulmutlu/DataLens"><img src="/datalens.svg" width="100%" alt="DataLens — A read-only image dataset checker for corrupted files, duplicates, and label issues." /></a>
 <p align="center">
 <a href="https://github.com/Ertugrulmutlu/DataLens">Code</a> ·
 <a href="https://dev.to/ertugrulmutlu/datalens-a-read-only-image-dataset-sanity-checker-2do0">Technical write-up</a>
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/JumpNet"><img src="./assets/jumpnet.svg" width="100%" alt="JumpNet — A vision-based game agent exploring data collection, timing, and real-time inference." /></a>
+<a href="https://github.com/Ertugrulmutlu/JumpNet"><img src="jumpnet.svg" width="100%" alt="JumpNet — A vision-based game agent exploring data collection, timing, and real-time inference." /></a>
 <p align="center">
 <a href="https://github.com/Ertugrulmutlu/JumpNet">Code</a> ·
 <a href="https://dev.to/ertugrulmutlu/jumpnet-part-1-from-raw-gameplay-to-labeled-intelligence-building-the-data-foundation-for-2e2f">Building the data foundation</a>
@@ -72,14 +72,14 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/Edge-AI-Sound-Classifier-on-Raspberry-Pi-Pico"><img src="./assets/edge-ai.svg" width="100%" alt="Edge AI Sound Classifier — TinyML audio classification on Raspberry Pi Pico-class hardware." /></a>
+<a href="https://github.com/Ertugrulmutlu/Edge-AI-Sound-Classifier-on-Raspberry-Pi-Pico"><img src="edge-ai.svg" width="100%" alt="Edge AI Sound Classifier — TinyML audio classification on Raspberry Pi Pico-class hardware." /></a>
 <p align="center">
 <a href="https://github.com/Ertugrulmutlu/Edge-AI-Sound-Classifier-on-Raspberry-Pi-Pico">Code</a> ·
 <a href="https://dev.to/ertugrulmutlu/series/33033">Build series</a>
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=HwCR59VuYn4"><img src="./assets/talk.svg" width="100%" alt="DataTalks.Club talk — From Human-in-the-Loop to Agent-in-the-Loop: feedback systems, evaluation, and human judgment." /></a>
+<a href="https://www.youtube.com/watch?v=HwCR59VuYn4"><img src="talk.svg" width="100%" alt="DataTalks.Club talk — From Human-in-the-Loop to Agent-in-the-Loop: feedback systems, evaluation, and human judgment." /></a>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=HwCR59VuYn4">▶ Watch the talk</a>
 </p>
@@ -88,7 +88,7 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 </table>
 
 <div align="center">
-<img src="./assets/signal.svg" width="100%" alt="" />
+<img src="signal.svg" width="100%" alt="" />
 </div>
 
 ## 🧰 My toolkit
@@ -97,22 +97,22 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 
 **LANGUAGES**
 
-<img src="./assets/badge-python.svg" alt="Python" />
-<img src="./assets/badge-c.svg" alt="C" />
-<img src="./assets/badge-cpp.svg" alt="C++" />
+<img src="badge-python.svg" alt="Python" />
+<img src="badge-c.svg" alt="C" />
+<img src="badge-cpp.svg" alt="C++" />
 
 **MACHINE LEARNING & VISION**
 
-<img src="./assets/badge-pytorch.svg" alt="PyTorch" />
-<img src="./assets/badge-scikit_learn.svg" alt="scikit-learn" />
-<img src="./assets/badge-opencv.svg" alt="OpenCV" />
+<img src="badge-pytorch.svg" alt="PyTorch" />
+<img src="badge-scikit_learn.svg" alt="scikit-learn" />
+<img src="badge-opencv.svg" alt="OpenCV" />
 
 **APPLICATIONS, DATA & HARDWARE**
 
-<img src="./assets/badge-streamlit.svg" alt="Streamlit" />
-<img src="./assets/badge-sqlite.svg" alt="SQLite" />
-<img src="./assets/badge-raspberry_pi.svg" alt="Raspberry Pi" />
-<img src="./assets/badge-git.svg" alt="Git" />
+<img src="badge-streamlit.svg" alt="Streamlit" />
+<img src="badge-sqlite.svg" alt="SQLite" />
+<img src="badge-raspberry_pi.svg" alt="Raspberry Pi" />
+<img src="badge-git.svg" alt="Git" />
 
 </div>
 
@@ -128,7 +128,7 @@ Tools you can explore. Systems you can inspect. Build stories you can follow.
 | 🔌 | **Edge AI** | How do we make inference work within hardware constraints? |
 
 <div align="center">
-<img src="./assets/signal.svg" width="100%" alt="" />
+<img src="signal.svg" width="100%" alt="" />
 </div>
 
 ## ✍️ Ideas in public
@@ -157,14 +157,14 @@ I write about **what I build, what breaks, and what the failures teach me**.
 
 <div align="center">
 
-<img src="./assets/signal.svg" width="100%" alt="" />
+<img src="signal.svg" width="100%" alt="" />
 
 ### Research ideas → Practical systems.
 
 Interested in **local-first AI**, **reliable ML**, or **edge systems**? Let's connect.
 
-<a href="https://www.linkedin.com/in/ertugrul-mutlu/"><img src="./assets/badge-lets_connect.svg" alt="Connect on LinkedIn" /></a>
-<a href="https://ertugrulmutlu.github.io"><img src="./assets/badge-explore_my_work.svg" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/ertugrul-mutlu/"><img src="badge-lets_connect.svg" alt="Connect on LinkedIn" /></a>
+<a href="https://ertugrulmutlu.github.io"><img src="badge-explore_my_work.svg" alt="Explore my portfolio" /></a>
 
 </div>
 
