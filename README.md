@@ -1,170 +1,69 @@
 <div align="center">
 
-<a href="https://ertugrulmutlu.github.io">
-  <img src="hero.png" width="100%" alt="Ertugrul Mutlu — AI systems beyond the demo. Local-first AI, computer vision, and edge ML." />
+<a href="https://ertugrulmutlu.github.io/">
+  <img src="hero.png" width="100%" alt="Ertuğrul Mutlu" />
 </a>
 
-<br><br>
+<p><strong>Computer Engineering B.Sc. student at RWTH Aachen University</strong></p>
 
-**Computer Engineering @ RWTH Aachen University**  
-**Werkstudent Researcher @ Fraunhofer IAIS**
-
-I turn research ideas into **local-first tools**, **desktop products**, and **edge ML systems**.
+<p>I build tools for evaluating LLM workflows and simulators for inspecting how software and hardware behave. At Fraunhofer IAIS, my research has focused on agentic AI and LLM tooling.</p>
 
 <p>
-  <a href="https://ertugrulmutlu.github.io"><img src="/badge-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://ertugrulmutlu.github.io/"><img src="badge-portfolio.svg" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ertugrul-mutlu/"><img src="badge-linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://dev.to/ertugrulmutlu"><img src="badge-build_logs.svg" alt="Writing and build logs" /></a>
-  <a href="https://www.youtube.com/watch?v=HwCR59VuYn4"><img src="/badge-watch_my_talk.svg" alt="Watch my DataTalks.Club talk" /></a>
 </p>
-
-[Projects](#-selected-work) · [Toolkit](#-my-toolkit) · [Writing](#-ideas-in-public)
-
-<img src="signal.svg" width="100%" alt="" />
-
-### A demo working once is not the same thing as a reliable system.
-
-Inputs drift. Timing breaks assumptions. Hidden state changes outcomes.  
-I build systems that can be **inspected**, **reproduced**, and **improved after failure**.
 
 </div>
 
-<br>
+## From Lab to Code
 
-## ⚡ Selected work
-
-Tools you can explore. Systems you can inspect. Build stories you can follow.
+Six interactive engineering projects in Python and C++, covering image processing, spatial audio, robot kinematics, neural network efficiency, real-time control, and hardware simulation.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/OpenAnima"><img src="openanima.svg" width="100%" alt="OpenAnima — An open-source, local-first Windows desktop overlay engine." /></a>
-<p align="center">
-<a href="https://github.com/Ertugrulmutlu/OpenAnima">Code</a> ·
-<a href="https://ertugrulmutlu.github.io/OpenAnima/">Website</a> ·
-<a href="https://ertugrulmutlu.itch.io/openanima">itch.io</a>
-</p>
+<td width="45%" valign="top">
+  <a href="https://github.com/Ertugrulmutlu/from-lab-to-code/tree/main/06-systemc-architecture-playground">
+    <img src="https://raw.githubusercontent.com/Ertugrulmutlu/from-lab-to-code/main/docs/assets/systemc-architecture-og.png" width="100%" alt="SystemC Architecture Playground" />
+  </a>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/promptledger"><img src="promptledger.svg" width="100%" alt="PromptLedger — Local-first prompt version control with history, labels, diffs, and metadata." /></a>
-<p align="center">
-<a href="https://github.com/Ertugrulmutlu/promptledger">Code</a> ·
-<a href="https://pypi.org/project/promptledger/">PyPI</a> ·
-<a href="https://dev.to/ertugrulmutlu/series/35047">Build series</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/DataLens"><img src="/datalens.svg" width="100%" alt="DataLens — A read-only image dataset checker for corrupted files, duplicates, and label issues." /></a>
-<p align="center">
-<a href="https://github.com/Ertugrulmutlu/DataLens">Code</a> ·
-<a href="https://dev.to/ertugrulmutlu/datalens-a-read-only-image-dataset-sanity-checker-2do0">Technical write-up</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/JumpNet"><img src="jumpnet.svg" width="100%" alt="JumpNet — A vision-based game agent exploring data collection, timing, and real-time inference." /></a>
-<p align="center">
-<a href="https://github.com/Ertugrulmutlu/JumpNet">Code</a> ·
-<a href="https://dev.to/ertugrulmutlu/jumpnet-part-1-from-raw-gameplay-to-labeled-intelligence-building-the-data-foundation-for-2e2f">Building the data foundation</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Ertugrulmutlu/Edge-AI-Sound-Classifier-on-Raspberry-Pi-Pico"><img src="edge-ai.svg" width="100%" alt="Edge AI Sound Classifier — TinyML audio classification on Raspberry Pi Pico-class hardware." /></a>
-<p align="center">
-<a href="https://github.com/Ertugrulmutlu/Edge-AI-Sound-Classifier-on-Raspberry-Pi-Pico">Code</a> ·
-<a href="https://dev.to/ertugrulmutlu/series/33033">Build series</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=HwCR59VuYn4"><img src="talk.svg" width="100%" alt="DataTalks.Club talk — From Human-in-the-Loop to Agent-in-the-Loop: feedback systems, evaluation, and human judgment." /></a>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=HwCR59VuYn4">▶ Watch the talk</a>
-</p>
+<td width="55%" valign="top">
+  <strong>SystemC Architecture Playground</strong>
+  <p>Edit and compile C++/SystemC models, step through simulation events, and inspect VCD waveforms. The four experiments span digital adders and a CPU–memory platform with configurable TLM latency.</p>
+  <p><a href="https://github.com/Ertugrulmutlu/from-lab-to-code/tree/main/06-systemc-architecture-playground">Source</a> · <a href="https://dev.to/ertugrulmutlu/from-lab-to-code-6-exploring-hardware-simulation-with-c-and-systemc-5b1h">Technical write-up</a></p>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="signal.svg" width="100%" alt="" />
-</div>
+[Browse all six projects](https://ertugrulmutlu.github.io/from-lab-to-code/) · [Series repository](https://github.com/Ertugrulmutlu/from-lab-to-code)
 
-## 🧰 My toolkit
+## Open-source projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/Ertugrulmutlu/promptledger"><img src="promptledger.svg" width="100%" alt="PromptLedger" /></a>
+  <p><strong>PromptLedger</strong> tracks prompt versions in SQLite. Compare changes, record evaluation results, and check benchmark results against regression policies through the CLI or Python API.</p>
+  <p><a href="https://github.com/Ertugrulmutlu/promptledger">Source</a> · <a href="https://pypi.org/project/promptledger/">PyPI</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/Ertugrulmutlu/OpenAnima"><img src="openanima.svg" width="100%" alt="OpenAnima" /></a>
+  <p><strong>OpenAnima</strong> runs animated overlays on the Windows desktop. It supports sprites, GIFs, APNG, and WebM, with multi-monitor placement and saved sessions.</p>
+  <p><a href="https://github.com/Ertugrulmutlu/OpenAnima">Source</a> · <a href="https://ertugrulmutlu.github.io/OpenAnima/">Website</a> · <a href="https://apps.microsoft.com/detail/9n3hp2wxkxlg">Microsoft Store</a></p>
+</td>
+</tr>
+</table>
 
-**LANGUAGES**
+| Project | What it does |
+| --- | --- |
+| [Edge AI Sound Classifier](https://github.com/Ertugrulmutlu/Edge-AI-Sound-Classifier-on-Raspberry-Pi-Pico) | Extracts audio features in Python and runs four-class inference on an RP2040 with C++ firmware. |
+| [JumpNet](https://github.com/Ertugrulmutlu/JumpNet) | Records frames and keypresses, trains a behavior-cloning model, and predicts jump timing and duration in real time. |
+| [DataLens](https://github.com/Ertugrulmutlu/DataLens) | Audits image datasets for corrupt files, exact and near duplicates, and label coverage before training. |
 
-<img src="badge-python.svg" alt="Python" />
-<img src="badge-c.svg" alt="C" />
-<img src="badge-cpp.svg" alt="C++" />
+## Research and talks
 
-**MACHINE LEARNING & VISION**
+**Behavioral Convergence Without Representational Convergence**  
+In controlled MNIST experiments, I studied how reversing the order of training tasks can leave measurable differences in CNN representations even when models reach similar predictive performance. [arXiv preprint](https://arxiv.org/abs/2609.37836) · [Reproduction code](https://github.com/Ertugrulmutlu/hysteresis-neural-networks)
 
-<img src="badge-pytorch.svg" alt="PyTorch" />
-<img src="badge-scikit_learn.svg" alt="scikit-learn" />
-<img src="badge-opencv.svg" alt="OpenCV" />
-
-**APPLICATIONS, DATA & HARDWARE**
-
-<img src="badge-streamlit.svg" alt="Streamlit" />
-<img src="badge-sqlite.svg" alt="SQLite" />
-<img src="badge-raspberry_pi.svg" alt="Raspberry Pi" />
-<img src="badge-git.svg" alt="Git" />
-
-</div>
-
-<br>
-
-## 🎯 Where I'm going deeper
-
-| | Focus | Questions I work on |
-| :---: | :--- | :--- |
-| 🧪 | **AI workflow reliability** | How do we version, evaluate, and debug changing prompts? |
-| 🖥️ | **Local-first software** | How do we turn AI experiments into useful everyday tools? |
-| 👁️ | **Vision & data quality** | What breaks between data collection and real-time inference? |
-| 🔌 | **Edge AI** | How do we make inference work within hardware constraints? |
-
-<div align="center">
-<img src="signal.svg" width="100%" alt="" />
-</div>
-
-## ✍️ Ideas in public
-
-I write about **what I build, what breaks, and what the failures teach me**.
-
-| Read | Explore |
-| :--- | :--- |
-| **[Deterministic Decision Making in Non-Deterministic Environments](https://dev.to/ertugrulmutlu/deterministic-decision-making-in-non-deterministic-environments-why-all-my-projects-fight-the-same-c8p)** | The engineering philosophy connecting my projects |
-| **[I Intentionally Built a Bad Decision System](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)** | Hidden state, side effects, and failure modes |
-| **[PromptLedger: the build series](https://dev.to/ertugrulmutlu/series/35047)** | Local-first prompt versioning, from idea to tooling |
-| **[OpenAnima v1](https://dev.to/ertugrulmutlu/openanima-v1-open-source-desktop-overlay-engine-for-windows-3m9c)** | Building and releasing a public desktop product |
-
-**[Browse all articles →](https://dev.to/ertugrulmutlu)**
-
-<br>
-
-<details>
-<summary><b>📊 GitHub activity</b></summary>
-<br>
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ertugrulmutlu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=10151c&amp;title_color=f5b544&amp;icon_color=67d9ee&amp;text_color=bdc7d5" alt="Ertugrul's GitHub activity statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ertugrulmutlu&amp;layout=compact&amp;hide_border=true&amp;bg_color=10151c&amp;title_color=f5b544&amp;text_color=bdc7d5" alt="Most used languages across GitHub repositories" />
-</p>
-</details>
-
-<div align="center">
-
-<img src="signal.svg" width="100%" alt="" />
-
-### Research ideas → Practical systems.
-
-Interested in **local-first AI**, **reliable ML**, or **edge systems**? Let's connect.
-
-<a href="https://www.linkedin.com/in/ertugrul-mutlu/"><img src="badge-lets_connect.svg" alt="Connect on LinkedIn" /></a>
-<a href="https://ertugrulmutlu.github.io"><img src="badge-explore_my_work.svg" alt="Explore my portfolio" /></a>
-
-</div>
-
+- **Python Summit 2026** · *From Prompt Mess to Prompt Observability* — lessons from building PromptLedger to track and debug prompt changes. [Build series](https://dev.to/ertugrulmutlu/series/35047)
+- **DataTalks.Club** · *From Human-in-the-Loop to Agent-in-the-Loop* — feedback, evaluation, and human judgment in agentic workflows. [Talk recording](https://www.youtube.com/watch?v=HwCR59VuYn4)
